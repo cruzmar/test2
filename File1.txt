@@ -7,3 +7,4 @@ User1:6th
 User1:7th add items from commit list that needs to be pushed. 
 User2: User2 tries to make some changes while user1 has already pushed his change.
 User1:8th change from user1. To be pushed while User2 is also making some changes.
+User2:9th change from user2. Will try to simulate conflict.
