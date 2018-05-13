@@ -1,2 +1,4 @@
 Initial content of file1 from User1
 2nd change from user1
+User1:3rd change after staging the previous change
+User1:4th change after the previous change has been commited/pushed.
