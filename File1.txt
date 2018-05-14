@@ -20,3 +20,4 @@ User2: made some more  changes while user1 is working on his branch1
 -------- User2 Branch1 ----
 User2: work on branch1
 User2: second commit to branch1
+User2: commit after pushing branch1
