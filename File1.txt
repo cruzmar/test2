@@ -13,12 +13,15 @@ User2: User2 tries to make some changes while user1 has already pushed his chang
 User1:8th change from user1. To be pushed while User2 is also making some changes.
 User2:9th change from user2. Will try to simulate conflict.
 User1:9th change from user1. Will try to simulate conflict.
-User2: made changes while user1 is working on his branch1
-User2: made another changes while user1 is working on his branch1
+User1:checkin chnages to Branch1
+User1:another checkin chnages to Branch1
+User1: continues checkin to branch1
+User1: continues2 checkin to branch1
 User2: made some another changes while user1 is working on his branch1
 User2: made some more  changes while user1 is working on his branch1
+User1: continues3 checkin to branch1
+User1: another independent checkin to branch1
+User2: made changes to master
 -------- User2 Branch1 ----
 User2: work on branch1
 User2: second commit to branch1
-User2: commit after pushing branch1
-User2: second commit after pushing branch1
