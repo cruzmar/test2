@@ -18,3 +18,4 @@ User1:another checkin chnages to Branch1
 User1: continues checkin to branch1
 ----- User1 branch1 ------
 User1: branch1 work
+User1: continue branch1 work
