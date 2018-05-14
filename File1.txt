@@ -13,3 +13,4 @@ User2: User2 tries to make some changes while user1 has already pushed his chang
 User1:8th change from user1. To be pushed while User2 is also making some changes.
 User2:9th change from user2. Will try to simulate conflict.
 User1:9th change from user1. Will try to simulate conflict.
+User2: made changes while user1 is working on his branch1
