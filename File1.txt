@@ -16,3 +16,4 @@ User1:9th change from user1. Will try to simulate conflict.
 User2: made changes while user1 is working on his branch1
 User2: made another changes while user1 is working on his branch1
 User2: made some another changes while user1 is working on his branch1
+User2: made some more  changes while user1 is working on his branch1
