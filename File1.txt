@@ -16,6 +16,12 @@ User1:9th change from user1. Will try to simulate conflict.
 User1:checkin chnages to Branch1
 User1:another checkin chnages to Branch1
 User1: continues checkin to branch1
+User1: continues2 checkin to branch1
+User2: made some another changes while user1 is working on his branch1
+User2: made some more  changes while user1 is working on his branch1
+User1: continues3 checkin to branch1
+User1: another independent checkin to branch1
+User2: made changes to master
 ----- User1 branch1 ------
 User1: branch1 work
 User1: continue branch1 work
