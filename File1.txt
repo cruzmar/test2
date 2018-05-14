@@ -15,3 +15,4 @@ User2:9th change from user2. Will try to simulate conflict.
 User1:9th change from user1. Will try to simulate conflict.
 User1:checkin chnages to Branch1
 User1:another checkin chnages to Branch1
+User1: continues checkin to branch1
