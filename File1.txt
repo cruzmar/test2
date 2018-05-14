@@ -5,6 +5,7 @@ User1:3rd change after staging the previous change
 User1:4th change after the previous change has been commited/pushed.
 User1:5th change after the previous change has been commited/pushed.
 User2:Made changes in the middle
+User1: Update from user while he added new file2
 User1:6th 
 User1:7th add items from commit list that needs to be pushed. 
 User2: User2 tries to make some changes while user1 has already pushed his change.
