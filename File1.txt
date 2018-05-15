@@ -22,3 +22,7 @@ User2: made some more  changes while user1 is working on his branch1
 User1: continues3 checkin to branch1
 User1: another independent checkin to branch1
 User2: made changes to master
+-------- User2 Branch1 ----
+User2: work on branch1
+User2: second commit to branch1
+User2: other changes to branch1
